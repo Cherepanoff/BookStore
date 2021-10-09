@@ -669,11 +669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\проекты\\BookStore\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "C:\\проекты\\Book\\BookStore\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\проекты\\BookStore\\BookStore\\BookStore.csproj",
+      "projectPath": "C:\\проекты\\Book\\BookStore\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\1StPlayer X2\\.nuget\\packages\\",
-      "outputPath": "C:\\проекты\\BookStore\\BookStore\\obj\\",
+      "outputPath": "C:\\проекты\\Book\\BookStore\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

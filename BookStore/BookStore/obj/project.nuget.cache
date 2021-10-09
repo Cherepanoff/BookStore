@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w20ENMC4hK1vS7jglbaS7U2g6jkVr5Q5Jrp5QG/WIscKzsfF4XlsD6rxHt21aExP0kwbGwuLjO8qWXM9Trk3CA==",
+  "dgSpecHash": "6+AvV2D2y9JR+gs4aM5CXGp+S97oiErWx9odZ3ACpQ0jwFRJO/C0seZM9NNH+xD7Yp0t4g9EseWM+vCjUEI6Pw==",
   "success": true,
-  "projectFilePath": "C:\\проекты\\BookStore\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\проекты\\Book\\BookStore\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1StPlayer X2\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.17\\microsoft.aspnetcore.jsonpatch.3.1.17.nupkg.sha512",
     "C:\\Users\\1StPlayer X2\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.17\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.17.nupkg.sha512",
