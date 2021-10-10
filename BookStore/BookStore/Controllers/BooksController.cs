@@ -51,7 +51,7 @@ namespace BookStore.Controllers
             }
             catch
             {
-                return new JsonResult("Anynymous books")
+                return new JsonResult("Anynymous books");
             }
         }
     }
